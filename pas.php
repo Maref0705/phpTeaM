@@ -1,6 +1,6 @@
 <?php
-$username = "TeaM";
-$password = "Cyber";
+$username = "ID";
+$password = "FB";
 
 system("clear");
 echo "login dulu su_<\n";
