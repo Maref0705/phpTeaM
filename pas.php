@@ -31,18 +31,12 @@ echo "\n Thex »--> ";
 $pil = trim(fgets(STDIN));
 if($pil == 1){
        system('git clone https://github.com/Fukur0-3XP/SpamWa');
-       system('cd SpamWa');
-       system('python2 Wa.py');
                }
 if($pil == 2){
 	   system('git clone https://github.com/B4N954N2-ID/Darkpremium');
-	   system('cd Darkpremium');
-	   system('python2 darkpremium.py');
 	           }
 if($pil == 3){
 	   system('git clone https://github.com/Mr-R0N1Z/phoenix_ddos');
-	   system('cd phoenix_ddos');
-	   system('sh phoenix.sh');
 	           }
 if($pil == 4){
 	   echo "By Goblok!\n";
