@@ -33,10 +33,10 @@ if($pil == 1){
        system('git clone https://github.com/Fukur0-3XP/SpamWa');
                }
 if($pil == 2){
-	   system('git clone https://github.com/B4N954N2-ID/Darkpremium');
+       system('git clone https://github.com/B4N954N2-ID/Darkpremium');
 	           }
 if($pil == 3){
-	   system('git clone https://github.com/Mr-R0N1Z/phoenix_ddos');
+       system('git clone https://github.com/Mr-R0N1Z/phoenix_ddos');
 	           }
 if($pil == 4){
 	   echo "By Goblok!\n";
